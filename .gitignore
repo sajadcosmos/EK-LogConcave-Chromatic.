@@ -1,0 +1,14 @@
+# Lean / Lake build artefacts
+.lake/
+build/
+*.olean
+*.ilean
+
+# Python
+__pycache__/
+*.pyc
+computations/graphs.pkl
+
+# OS / editor
+.DS_Store
+*.swp

@@ -1,0 +1,30 @@
+import EKLogConcave
+open EKLC
+#print axioms rigid_annulus
+#print axioms geometric_of_first_eq_last
+#print axioms dominance_inv
+#print axioms dominance_sum
+#print axioms mainA
+#print axioms mainA_rank
+#print axioms h_gt_one
+#print axioms h_bounds_activity
+#print axioms nongeom_core
+#print axioms h_mediant
+#print axioms mainB
+#print axioms mainB_rank_two
+#print axioms reduced_radius
+#print axioms reduced_rank_bound
+#print axioms ridge_average
+#print axioms cycle_roots
+#print axioms cycle_roots_attained
+#print axioms two_sin_lt_one_iff
+#print axioms cycle_ratio_tendsto
+#print axioms cycle_coeffs
+#print axioms hpoly_mul
+#print axioms hpoly_glue
+#print axioms chordal_bounds
+#print axioms supersolvable_bound
+#print axioms alt_partial_sum
+#print axioms uniform_h
+#print axioms uniform_conj
+#print axioms pg_bound

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EK-LogConcave-Chromatic: Lean 4 formalisation and computational scripts"
+authors:
+  - family-names: Sheikh
+    given-names: "Sajad A."
+    affiliation: "Department of Mathematics, University of Kashmir, South Campus, Anantnag, 192101, Jammu and Kashmir, India"
+    email: sajadsheikh@uok.edu.in
+version: "1.0.0"
+date-released: "2026-11-16"
+repository-code: "https://github.com/sajadcosmos/EK-LogConcave-Chromatic."
+license: MIT
+keywords:
+  - Lean 4
+  - Mathlib
+  - Enestrom-Kakeya theorem
+  - log-concavity
+  - chromatic polynomial
+  - matroid characteristic polynomial
+  - formal verification
